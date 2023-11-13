@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+chbogOzW0g/p7pMBmMuV5HJhbuUP8PrFjCUChuYuSNVYpq5twXHfT9oeoTupw+w6yX97GYXnEA2KQiipknFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musta\\Desktop\\ConsoleApp1\\NLayerService\\NLayerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

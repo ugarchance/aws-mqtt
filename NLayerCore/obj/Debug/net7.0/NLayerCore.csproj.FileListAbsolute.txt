@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\bin\Debug\net7.0\NLayerCore.deps.json
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\bin\Debug\net7.0\NLayerCore.dll
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\bin\Debug\net7.0\NLayerCore.pdb
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\NLayerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\NLayerCore.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\NLayerCore.AssemblyInfo.cs
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\NLayerCore.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\NLayerCore.dll
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\refint\NLayerCore.dll
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\NLayerCore.pdb
+C:\Users\musta\source\repos\ConsoleApp1\NLayerCore\obj\Debug\net7.0\ref\NLayerCore.dll
